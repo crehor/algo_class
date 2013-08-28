@@ -24,7 +24,10 @@ import java.io.*;
 import java.net.*;
 import java.awt.*;
 import java.util.*;
+import java.util.Locale;
+
 import javax.swing.*;
+import javax.swing.Box;
 import javax.swing.event.*;
 import java.text.*;
 import java.awt.geom.*;
